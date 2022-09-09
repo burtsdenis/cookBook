@@ -20,7 +20,8 @@ Feel free to update - [Link](https://github.com/burtsdenis/cookBook/blob/main/Ge
 - Recipe - Full name of the recipe starting from the capital letter, use underscore `_` as a divider
     * American_pancakes
     * Eggs_with_ham_and_cheese
-Folder structure:
+
+## Folder structure:
 ```
 Language
 │   
