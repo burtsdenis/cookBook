@@ -7,7 +7,7 @@ This CookBook is a collection of receipts from all over the world
 ## General advices for cooking
 Feel free to update - [Link](https://github.com/burtsdenis/cookBook/blob/main/General_advices.md)
 
-Naming:
+## Naming:
 - Language - Start with the capital letter with the code at the end in the brackets
     * English(EN)
     * Italian(IT)
