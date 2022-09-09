@@ -1,8 +1,11 @@
 # International CookBook
 This CookBook is a collection of receipts from all over the world
 
-# Template for the recipe
-Link
+## Template for the recipe
+[Link](https://github.com/burtsdenis/cookBook/blob/main/Meal_template.md)
+
+## General advices for cooking
+Feel free to update - [Link](https://github.com/burtsdenis/cookBook/blob/main/General_advices.md)
 
 Naming:
 - Language - Start with the capital letter with the code at the end in the brackets
@@ -27,3 +30,7 @@ Language
 │       │   
 │       └─── Recipe
 ```
+
+## How to markdown
+[Basic syntax](https://www.markdownguide.org/basic-syntax/)
+[Markdown live previewer](https://markdownlivepreview.com/)
